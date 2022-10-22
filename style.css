@@ -1,0 +1,99 @@
+.butn {
+    text-align: center;
+    border: none;
+    padding: 10px;
+    width: 220px;
+    font-family: "montserrat", sans-serif;
+    text-transform: uppercase;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.6s;
+    background-image: linear-gradient(to right, #12CBC4, #0652DD);
+    color: white;
+    font-weight: bolder;
+}
+
+.butn:hover {
+    background-image: linear-gradient(to right, skyblue, darkblue);
+    color: black;
+}
+
+body {
+    background-size: cover;
+}
+
+#heading {
+    font-size: 50px;
+}
+
+.headYes {
+    text-align: center;
+    border: none;
+    margin: 10px;
+    padding: 4px;
+    width: 1300px;
+    font-family: "montserrat", sans-serif;
+    text-transform: uppercase;
+    border-radius: 6px;
+    cursor: default;
+    transition: 0.6s;
+    background-image: linear-gradient(to right, purple, darkblue, black);
+    color: white;
+    font-weight: bolder;
+    border: 2px solid cyan;
+}
+
+#inputer {
+    width: 500px;
+    text-align: center;
+    color: black;
+}
+
+canvas {
+    border: black;
+    border-width: 5px;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 5px;
+    border-style: groove;
+}
+
+#styler {
+    margin-top: 350px;
+}
+
+.statuses {
+    text-align: center;
+    border: none;
+    padding: 10px;
+    margin-left: 10px;
+    width: fit-content;
+    font-family: "montserrat", sans-serif;
+    text-transform: uppercase;
+    border-radius: 6px;
+    cursor: default;
+    transition: 0.6s;
+    background-image: linear-gradient(to right, black, cyan, darkblue, purple);
+    color: white;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.butnn {
+    text-align: center;
+    border: none;
+    padding: 10px;
+    width: 100px;
+    font-family: "montserrat", sans-serif;
+    text-transform: uppercase;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.6s;
+    background-image: linear-gradient(to right, #12CBC4, #0652DD);
+    color: white;
+    font-weight: bolder;
+}
+
+.butnn:hover {
+    background-image: linear-gradient(to right, skyblue, darkblue);
+    color: black;
+}
